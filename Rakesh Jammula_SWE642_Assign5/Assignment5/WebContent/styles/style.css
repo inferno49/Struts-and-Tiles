@@ -1,0 +1,56 @@
+body		{
+				background-color: #f1f1f1;
+				font-family:arial;
+			}
+
+h1			{
+				color:blue;
+				text-shadow: -6px 4px 6px grey;
+			}
+			
+			.cols		{
+				-webkit-column-count: 3;
+				column-count: 3;
+				column-gap: 50px;
+			}
+	
+.image	{
+				position:fixed;
+				bottom: 0px;
+				right: 5px;
+				height: 150px;
+				width: 150px;
+			}
+			
+h2 {
+color:#ff1a1a;
+font-family:sans-serif;
+}	
+
+h3{	
+color:#ff8533;
+	font-family:sans-serif;
+	}		
+#sidenav
+{
+top:0px;
+left:0px;
+float :left;
+position:fixed;
+width:200px;
+height:100%;
+background-color:#008000;
+}
+.main{
+position: absolute;
+left:0px;
+right:0px;
+overflow: scroll;
+}
+#attention{
+color:#990000;
+font-size:16;
+font-style: oblique;
+}
+
+
