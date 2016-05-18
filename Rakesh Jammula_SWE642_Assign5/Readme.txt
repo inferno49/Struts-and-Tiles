@@ -1,9 +1,7 @@
-Instructions for Assignment 5:
-
-1. Please extract the Rakesh Jammula_SWE642_Assign5.zip into a folder.
-2. The extracted folder contains Assignment5.war and the eclipse project forlder Assignment5 to view any of the source files.
-3. Import the war file into Eclipse and run the project.
-4. The project was developed to be compatible with Tomcat Server 8 and JDK 8, so should support the few previous versions as well  .
+Instructions for the file
+1. The extracted folder contains Assignment5.war and the eclipse project forlder Assignment5 to view any of the source files.
+2. Import the war file into Eclipse and run the project.
+3. The project was developed to be compatible with Tomcat Server 8 and JDK 8, so should support the few previous versions as well  .
 
 
 The folder contains:
